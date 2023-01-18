@@ -26,6 +26,17 @@ css = st.markdown("""<style>
   html body div#root div div.withScreencast div div.stApp.css-ffhzg2.eczokvf1 header.css-1avcm0n.e8zbici2 div.css-14xtw13.e8zbici0 span#MainMenu button.css-1rs6os.edgvbvh3{
     visibility: hidden;
   }
+  html body div#root div div.withScreencast div div.stApp.css-ffhzg2.eczokvf1 header.css-hy8qiv.e8zbici2{
+    visibility:hidden;
+
+  }
+  .css-1avcm0n{
+      visibility:hidden;
+    
+  }
+  #root > div:nth-child(1) > div.withScreencast > div > div > header{
+      visibility:hidden;
+      }
   </style>""",unsafe_allow_html=True)
 
 title = st.markdown("<h1>كل الروابط المفيده للمقررات الفرقه الاولى في الذكاء الاصطناعي التطبيقي</h1>",unsafe_allow_html=True)
