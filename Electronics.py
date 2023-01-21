@@ -86,10 +86,6 @@ content = st.markdown("""
 
 [Full wave Bridge Rectifiers By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=EkHch86UXpY)
 
-## Zener Diodes  
-
-[Zener Diodes By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=mmiHX_IzvDw)
-
 ## Clipper Circuits
 
 [Clipper Circuits By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=HegEFPLSbLY)
@@ -97,14 +93,6 @@ content = st.markdown("""
 ## Clamper Circuits  
 
 [Clamper Circuits By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=PRzrS6NOyAY)
-
-## Transistors  
-
-[Transistors By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=AcxDiesy-nI)
-
-## Bipolar Junction Transistors (BJT)  
-
-[Bipolar Junction Transistors (BJT) By TheOrganicChemistryTutor](h<https://www.youtube.com/watch?v=VJJuxQk5fTY)
 
 ## Voltage Multipliers  
 
@@ -118,6 +106,10 @@ content = st.markdown("""
 
 [Voltage Regulators By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=iomZgZYN3WY)
 
+## Zener Diodes  
+
+[Zener Diodes By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=mmiHX_IzvDw)
+
 ## Light Emitting Diodes (LEDs)  
 
 [LEDs - Light Emitting Diodes - Basic Introduction By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=Hl4v1aUFWrs)
@@ -125,6 +117,18 @@ content = st.markdown("""
 ## Varactor Diodes  
 
 [Varactor Diodes By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=aXuM3eW1fcQ)
+
+## Transistors  
+
+[Transistors By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=AcxDiesy-nI)
+
+## Bipolar Junction Transistors (BJT)  
+
+[Bipolar Junction Transistors (BJT) By TheOrganicChemistryTutor](h<https://www.youtube.com/watch?v=VJJuxQk5fTY)
+
+
+
+
 """,unsafe_allow_html=True)
 
 #st.audio("https://server8.mp3quran.net/afs/001.mp3" , format='audio/mp3', start_time=0) 
