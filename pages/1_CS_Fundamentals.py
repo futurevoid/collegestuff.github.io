@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(
          page_title="فرقه اولى ذكاء اصطناعي  Freshman FCAI AI ",
      page_icon="",
-     initial_sidebar_state="auto",
+     initial_sidebar_state="expanded",
  )
 
 
@@ -122,9 +122,7 @@ content = st.markdown("""
 
 [LEDs - Light Emitting Diodes - Basic Introduction By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=Hl4v1aUFWrs)
 
-## Varactor Diodes  
+##Varactor Diodes  
 
 [Varactor Diodes By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=aXuM3eW1fcQ)
 """,unsafe_allow_html=True)
-
-st.markdown(""" <a href = "http://localhost:8501/CS_Fundamentals">aaaa</a> """,unsafe_allow_html=True)
