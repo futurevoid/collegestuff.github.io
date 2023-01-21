@@ -2,9 +2,9 @@ import streamlit as st
 
 
 st.set_page_config(
-         page_title="فرقه اولى ذكاء اصطناعي  Freshman FCAI AI ",
+         page_title="CS Fundamentals CS101",
      page_icon="",
-     initial_sidebar_state="expanded",
+     initial_sidebar_state="auto",
  )
 
 
@@ -42,9 +42,9 @@ css = st.markdown("""<style>
 title = st.markdown("<h1>كل الروابط المفيده للمقررات الفرقه الاولى في الذكاء الاصطناعي التطبيقي</h1>",unsafe_allow_html=True)
 st.title("""All useful links for Freshmen FCAI Applied AI""")
 
-subtitle= st.markdown(""" <h2 style = "color:rgb(0, 255, 255)"> <em>Electronics IT101</em> </h2> """,unsafe_allow_html=True)
+subtitle= st.markdown(""" <h2 style = "color:rgb(0,250,154)"> <em>CS Fundamentals</em> </h2> """,unsafe_allow_html=True)
 content = st.markdown("""
-## introduction to electronics english  
+##   
 
 [Basic Electronics For Beginners By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=uXr4lXYjXuU)
 

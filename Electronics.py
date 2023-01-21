@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.set_page_config(
-         page_title="فرقه اولى ذكاء اصطناعي  Freshman FCAI AI ",
+         page_title="Electronics IT101",
      page_icon="",
      initial_sidebar_state="auto",
  )
@@ -127,4 +127,4 @@ content = st.markdown("""
 [Varactor Diodes By TheOrganicChemistryTutor](https://www.youtube.com/watch?v=aXuM3eW1fcQ)
 """,unsafe_allow_html=True)
 
-st.markdown(""" <a href = "http://localhost:8501/CS_Fundamentals">aaaa</a> """,unsafe_allow_html=True)
+#st.audio("https://server8.mp3quran.net/afs/001.mp3" , format='audio/mp3', start_time=0) 
